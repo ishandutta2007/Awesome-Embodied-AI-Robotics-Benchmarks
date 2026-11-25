@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks"><img src="https://img.shields.io/badge/Awesome-Embodied_AI_Robotics-blueviolet?style=for-the-badge&logo=awesomelists" alt="Awesome List"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks?style=for-the-badge&logo=github&color=teal" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -29,6 +31,8 @@ Whether you are evaluating humanoid locomotion policies, training multi-task fou
 - [💻 Open-Source Benchmark Suites & Physics Simulators](#-open-source-benchmark-suites--physics-simulators)
 - [🎯 Benchmark Taxonomy & Evaluation Dimensions](#-benchmark-taxonomy--evaluation-dimensions)
 - [🛠️ How to Contribute](#️-how-to-contribute)
+- [⭐ Star History](#star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📄 License & Disclaimers](#-license--disclaimers)
 
 ---
@@ -126,6 +130,24 @@ We encourage researchers, engineers, and simulator maintainers to submit updates
 3. Ensure that SaaS entries list **precise starting price points** and **explicit free tier/trial limits**.
 4. Ensure open-source entries include the proper stargazer badge format: `[![Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`.
 5. Submit a **Pull Request** with a concise summary of the changes.
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Embodied-AI-Robotics-Benchmarks&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and supporting **Awesome Embodied AI & Robotics Benchmarks**! 🙏
+
+If this resource helps your research, benchmarking workflows, or sim-to-real robotic developments, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** updates, benchmarks, and simulator additions.
+- 📢 **Share with your colleagues, lab members, and robotics communities**.
+- ☕ **Buy me a coffee / Sponsor the project** on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) to help sustain ongoing curation, validation, and maintenance!
 
 ---
 
